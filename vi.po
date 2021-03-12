@@ -284,33 +284,33 @@ msgstr "Không thể khởi động java!"
 #: src/api/logic/java/launch/CheckJava.cpp:95
 msgctxt "CheckJava|"
 msgid "Java checker returned some invalid data MultiMC doesn't understand:"
-msgstr ""
+msgstr "Trình kiểm tra Java trả về một số dữ liệu không hợp lệ cho MultiMC:"
 
 #: src/api/logic/java/launch/CheckJava.cpp:117
 #, qt-format
 msgctxt "CheckJava|"
 msgid "Java is version %1, using %2-bit architecture.\n\n"
-msgstr ""
+msgstr "Java là phiên bản %1, sử dụng kiến trúc %2-bit"
 
 #: src/api/logic/java/launch/CheckJava.cpp:127
 msgctxt "CheckJava|"
 msgid "Your CPU architecture is not matching your system architecture. You might want to install a 64bit Operating System.\n\n"
-msgstr ""
+msgstr "Kiến trúc CPU của bạn không phù hợp với kiến trúc hệ thống của bạn. Bạn có thể muốn cài đặt Hệ điều hành 64bit.\n\n"
 
 #: src/api/logic/java/launch/CheckJava.cpp:133
 msgctxt "CheckJava|"
 msgid "Your Java architecture is not matching your system architecture. You might want to install a 64bit Java version.\n\n"
-msgstr ""
+msgstr "Kiến trúc Java của bạn không phù hợp với kiến trúc hệ thống của bạn. Bạn có thể muốn cài đặt phiên bản Java 64bit.\n\n"
 
 #: src/api/logic/minecraft/ComponentList.cpp:852
 msgctxt "ComponentList|"
 msgid "Name"
-msgstr ""
+msgstr "Tên"
 
 #: src/api/logic/minecraft/ComponentList.cpp:854
 msgctxt "ComponentList|"
 msgid "Version"
-msgstr ""
+msgstr "Phiên bản"
 
 #: src/api/logic/minecraft/ComponentUpdateTask.cpp:269
 msgctxt "ComponentUpdateTask|"
